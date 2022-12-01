@@ -17,7 +17,7 @@ public class AzuretestApplication {
 
 	@GetMapping("/message")
 	public String getTestMessage() {
-		return "YEAHRRRR DEVOPS BABY";
+		return "YEAHRRRR WITHOUT MANUAL RESTART BABY";
 	}
 
 }
